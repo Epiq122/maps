@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Epiq122/maps/issues"
   },
-  "homepage": "https://github.com/Epiq122/maps#readme"
+  "homepage": "https://github.com/Epiq122/maps#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
 }
