@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.ts"],"names":[],"mappings":"AAAA,GAAG;AACH,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC","file":"src.f10117fe.js","sourceRoot":"..","sourcesContent":["log;\nconsole.log('Hey');\n"]}
